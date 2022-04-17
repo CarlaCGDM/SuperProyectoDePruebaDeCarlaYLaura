@@ -5,3 +5,6 @@ fun main() {
 //Función de suma, hecha por Carla:
 
 //Función de multiplicación, hecha por Laura:
+fun suma(n1:Int, n2:Int):Int{
+    return n1*n2
+}
